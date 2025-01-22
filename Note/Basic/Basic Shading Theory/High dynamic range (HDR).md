@@ -10,11 +10,11 @@ Increasing some range, in this case is light, specifically RGB.
 - Consider as overpowered light.
 
 $$
-WhatWeCanSee = RGB = Min(WhiteColorInRGB, hdrRGB)
+WhatWeCanSee = RGB = min(WhiteColorInRGB, hdrRGB)
 $$
 
 ### Calculate with Lambertian reflectance
 ---
 $$
-RGB(255, 0, 0) = Min(RGB(255, 255, 255), hdrRGB (1000, 0, 0)* rcos(10))
+RGB(255, 0, 0) = min(RGB(255, 255, 255), hdrRGB (1000, 0, 0)* rcos(10))
 $$
