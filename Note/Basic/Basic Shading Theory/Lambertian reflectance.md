@@ -4,9 +4,9 @@
  Lambertian reflectance is light reflective equation in ideal situation.
 ### How to calculate
 ---
-- I : Incoming lights RGB
+- I : Incoming light RGB
 - S : Amount of light that surface get
-- IA : Angle between surface and Incoming lights
+- IA : Angle between surface and Incoming light
 
 $$S = rcos( 90 - IA ) = rsin( IA ) * I$$
 ### Pre-Calculated data
