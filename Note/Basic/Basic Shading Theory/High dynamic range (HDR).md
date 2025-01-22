@@ -15,3 +15,6 @@ $$
 
 ### Calculate with Lambertian reflectance
 ---
+$$
+RGB (1000, 0, 0)
+$$
