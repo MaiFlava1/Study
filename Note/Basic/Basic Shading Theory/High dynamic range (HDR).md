@@ -7,8 +7,11 @@ Increasing some range, in this case is light, specifically RGB.
 ---
 - Basic RGB range : 0 ~ 255
 - HDR RGB range : 0 ~ 255 ~ Infinite
+- Consider as overpowered light.
 
 $$
-WhatWeSee = BasicRGB = Min(WhiteColorInBasicRGB, hdrRGB)
+WhatWeCanSee = BasicRGB = Min(WhiteColorInBasicRGB, hdrRGB)
 $$
-- Consider as overpowered light.
+
+### Calculate with Lambertian reflectance
+---
