@@ -8,7 +8,7 @@
 - S : Amount of light that surface get
 - IA : Angle between surface and Incoming lights
 
-$$S = rcos( IA ) * I$$
+$$S = rsin( IA ) * I$$
 ### Pre-Calculated data
 ---
 
