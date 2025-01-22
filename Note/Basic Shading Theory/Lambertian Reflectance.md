@@ -3,7 +3,9 @@
 ### What is Lambertian Reflectance
  Lambertian Reflectance is light reflective equation in ideal situation.
 ### How to calculate
-Outcoming Lights RGB = cos(   ) * Incoming Lights RGB
+I = Incoming Lights RGB
+O = 
+Outcoming Lights RGB = cos( Angle between surface ) * Incoming Lights RGB
 
 ### Pre-Calculated data
 
