@@ -8,7 +8,7 @@
 - S : Amount of light that surface get
 - IA : Angle between surface and Incoming lights
 
-$$S = rsin( IA ) * I$$
+$$S = rcos (90 - IA) = rsin( IA ) * I$$
 ### Pre-Calculated data
 ---
 
@@ -18,4 +18,4 @@ $$S = rsin( IA ) * I$$
 | Differencial | 0.17 | 0.17 | 0.16 | 0.14 | 0.13 | 0.1  | 0.07 | 0.04 | 0.02 | 0   |
 #### Disclaimer
 ---
-Actual equation is using cosin
+Actual equation is using cosine, it's for easy calculate for artist.
