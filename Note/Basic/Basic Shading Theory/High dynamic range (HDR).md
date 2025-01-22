@@ -7,5 +7,6 @@ Increasing some range, in this case is light, specifically RGB.
 ---
 - Basic RGB range : 0 ~ 255, 0 ~ 255, 0 ~ 255
 - HDR RGB range : 0 ~, 0 ~, 0 ~
-- Basic (0, 0, 0) = HDR (0, 0, 0)
-- Basic (255, 255, 255)
+$$
+Basic RGB = hd
+$$
