@@ -16,5 +16,5 @@ $$
 ### Calculate with Lambertian reflectance
 ---
 $$
-RGB(255, 0, 0) = min(RGB(255, 255, 255), hdrRGB (1000, 0, 0)* rcos(10))
+RGB(255, 0, 0) = min(RGB(255, 255, 255), hdrRGB (1000, 0, 0)* rsin(10))
 $$
