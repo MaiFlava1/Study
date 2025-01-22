@@ -6,8 +6,8 @@
 ---
 I : Incoming lights RGB
 S : Amount of light that surface get
-IA : Angle between surface and Incoming lights
-S = cos( IA ) * I
+$$ IA : Angle between surface and Incoming lights $$
+$$S = cos( IA ) * I$$
 ### Pre-Calculated data
 ---
 
