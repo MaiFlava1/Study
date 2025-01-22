@@ -18,4 +18,4 @@ $$S = rsin( IA ) * I$$
 | Differencial | 0.17 | 0.17 | 0.16 | 0.14 | 0.13 | 0.1  | 0.07 | 0.04 | 0.02 | 0   |
 #### Disclaimer
 ---
-Ac
+Actual equation is using cosin
