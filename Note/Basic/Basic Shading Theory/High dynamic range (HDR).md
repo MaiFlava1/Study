@@ -5,6 +5,7 @@ Increasing some range, in this case is light, specifically RGB.
 
 ### How to calculate
 ---
-- Basic RGB range : R (0 ~ 255), G (0 ~ 255), B (0 ~ 255)
-- HDR RGB range : R (0 ~ 255 ~ ), G(0 ~ 255 ~ ), B(0 ~ 255 ~)
-- Basic (0, 0, 0)
+- Basic RGB range : 0 ~ 255, 0 ~ 255, 0 ~ 255
+- HDR RGB range : 0 ~, 0 ~, 0 ~
+- Basic (0, 0, 0) = HDR (0, 0, 0)
+- Basic (255, 255, 255)
