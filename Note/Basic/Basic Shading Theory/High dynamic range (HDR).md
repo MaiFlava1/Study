@@ -18,5 +18,7 @@ $$
 If light is strong enough, areas that would normally be dark will be illuminated. 
 
 $$
+
 RGB(170, 0, 0) = min(RGB(255, 255, 255), hdrRGB (1000, 0, 0)* rsin(10))
+
 $$
