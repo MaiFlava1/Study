@@ -9,4 +9,4 @@ Draw outline and draw internal AA buffer, In this case, internal, contains **out
 
 ### Personal opinion
 ---
-Using Internal AA buffer with only sprites is better when using sprite in magnify pixel situation. When Sel-out method encounter 
+Using Internal AA buffer with only sprites is better when using sprite in magnify pixel situation. When Sel-out method encounter magnify pixel situation, those black outline section looks like noise or bad AA.
