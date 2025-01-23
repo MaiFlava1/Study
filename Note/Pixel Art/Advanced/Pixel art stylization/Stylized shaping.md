@@ -5,9 +5,9 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 
 ### Type
 ---
-- 
+- Overall
+	- If have animation, everything become simple, for cost
 - Pixel illustration
-	- 
 - Pixel sprite
 	- Item
 		- Exaggerated
