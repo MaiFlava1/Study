@@ -13,5 +13,6 @@ Projection is method of representing 3D objects on a 2D plane.
 		- 2-point perspective
 		- 3-point perspective
 - Orthographic Projection
+	- All the objects with differenc
 - Isometric Projection
 - Axonometric Projection
