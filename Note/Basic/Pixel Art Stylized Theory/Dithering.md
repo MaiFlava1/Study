@@ -1,0 +1,3 @@
+# Dithering
+### What is Dithering
+---
