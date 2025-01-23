@@ -9,10 +9,12 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 	- 
 - Pixel sprite
 	- Item
-		- Deform aggressively
-		- Perspective is aggressive
+		- Exaggerated
+			- Deform aggressively
+			- Perspective is aggressive
 		- Using Sel-out
 	- Character
+		- Simple
 		- Flat projection
 		- Using Sel-out
 	- UI
