@@ -9,5 +9,8 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 - Pixel sprite
 	- Item
 		- Shapes are very deform
-		- 
+		- Perspective is very aggressive
 	- Character
+		- 
+	- UI
+		- 
