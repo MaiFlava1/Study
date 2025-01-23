@@ -6,11 +6,14 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 ### Type
 ---
 - Pixel illustration
+	- 
 - Pixel sprite
 	- Item
 		- Shapes are very deform
 		- Perspective is very aggressive
+		- Using Sel-out
 	- Character
-		- 
+		- Almost flat 
+		- Using Sel-out
 	- UI
-		- 
+		- Using Sel-out or not
