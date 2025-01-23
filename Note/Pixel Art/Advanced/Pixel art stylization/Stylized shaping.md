@@ -1,3 +1,3 @@
 # Stylized shaping
-### Stylized shaping
+### What is Stylized shaping
 ---
