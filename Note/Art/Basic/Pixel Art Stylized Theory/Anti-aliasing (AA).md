@@ -5,4 +5,3 @@ AA is technique used to smooth out jagged edges from computer graphics.
 
 ### Manual Anti-aliasing
 ---
-Just draw
