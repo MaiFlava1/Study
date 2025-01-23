@@ -11,7 +11,6 @@ Projection is method of representing 3D objects on a 2D plane.
 	- Include techniques
 		- 1-point perspective
 			- Line that comes to one point, like infinite hallway.
-			- Vertical and 
 		- 2-point perspective
 			- 
 		- 3-point perspective
