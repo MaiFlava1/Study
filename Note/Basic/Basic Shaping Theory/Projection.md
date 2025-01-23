@@ -10,7 +10,7 @@ Projection is method of representing 3D objects on a 2D plane.
 	- Distant objects are smaller then closer ones
 	- Include techniques
 		- 1-point perspective
-			- 
+			- Thinking lik
 		- 2-point perspective
 			- 
 		- 3-point perspective
