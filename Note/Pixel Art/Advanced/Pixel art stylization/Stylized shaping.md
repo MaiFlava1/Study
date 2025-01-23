@@ -15,6 +15,7 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 		- Exaggerated
 			- Deform aggressively
 			- Perspective is aggressive
+			- Dramatic light settings
 		- Each one have own matching matcap
 		- Using Outline (Sel-out)
 	- Character
