@@ -13,7 +13,8 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 		- Perspective is very aggressive
 		- Using Sel-out
 	- Character
-		- Almost flat 
+		- Flat projection
 		- Using Sel-out
 	- UI
+		- Flat projection
 		- Using Sel-out or not
