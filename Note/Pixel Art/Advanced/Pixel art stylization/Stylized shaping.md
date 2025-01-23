@@ -8,13 +8,14 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 - Pixel illustration
 	- 
 - Pixel sprite
+	- Overall
+		- If have animation, become simple
 	- Item
 		- Exaggerated
 			- Deform aggressively
 			- Perspective is aggressive
 		- Using Sel-out
 	- Character
-		- Simple
 		- Flat projection
 		- Using Sel-out
 	- UI
