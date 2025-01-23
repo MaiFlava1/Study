@@ -6,4 +6,8 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 ### Type
 ---
 - Pixel illustration
-- Pixel 
+- Pixel sprite
+	- Item
+		- Shapes are very deform
+		- 
+	- Character
