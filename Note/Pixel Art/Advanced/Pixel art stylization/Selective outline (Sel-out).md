@@ -5,9 +5,8 @@ Sel-out is advanced pixel art technique. This method can **solve** problem that 
 
 ### How to use
 ---
-Draw outline and draw internal AA buffer, In this case, internal, contains **outlines** and **sprites**.
-
+Draw outline and draw internal AA buffer, In this case, internal, contains **outlines** and **sprites**. In other words, Drawing internal AA but thinner is maybe correct. 
 
 ### Personal opinion
 ---
-Using Internal AA buffer with only sprites is better when using sprite in magnify pixel situation. Sel-out is
+Using Internal AA buffer with only sprites is better when using sprite in magnify pixel situation. Sel-out 
