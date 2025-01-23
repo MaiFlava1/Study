@@ -1,7 +1,7 @@
-# Selective outline AA
-### What is Selective outline AA
+# Selective outline
+### What is Selective outline
 ---
-Selective outline AA is advanced pixel art technique. This method can solve problem that outer AA buffer become unfittable with other backgrounds.
+Selective outline is advanced pixel art technique. This method can solve problem that outer AA buffer become unfittable with other backgrounds.
 
 ### How to use
 ---
