@@ -5,4 +5,4 @@ Sel-out is advanced pixel art technique. This method can **solve** problem that 
 
 ### How to use
 ---
-Draw outline and draw internal AA buffer, In this case, internal, contains outlines and sprites.
+Draw outline and draw internal AA buffer, In this case, internal, contains **outlines** and **sprites**.
