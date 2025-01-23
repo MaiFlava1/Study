@@ -5,4 +5,4 @@ Selective outline AA is advanced pixel art technique. This method can solve prob
 
 ### How to use
 ---
-Draw outline and draw inner AA buffer, In this case, inner contains outlines and 
+Draw outline and draw internal AA buffer, In this case, internal, contains outlines and sprites.
