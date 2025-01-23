@@ -5,20 +5,19 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 
 ### Type
 ---
+- 
 - Pixel illustration
 	- 
 - Pixel sprite
-	- Overall
-		- If have animation, become simple
 	- Item
 		- Exaggerated
 			- Deform aggressively
 			- Perspective is aggressive
 		- Each one have own matching matcap
-		- Using Sel-out
+		- Using Outline (Sel-out)
 	- Character
 		- Flat projection
-		- Using Sel-out
+		- Using Outline (Sel-out)
 	- UI
 		- Flat projection
 		- Using Sel-out sometimes
