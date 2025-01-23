@@ -8,13 +8,15 @@ Projection is method of representing 3D objects on a 2D plane.
 - Perspective Projection
 	- Similar to what we see
 	- Distant objects are smaller then closer ones
-	- Include techniques
+	- Include
 		- 1-point perspective
 		- 2-point perspective
 		- 3-point perspective
 - Orthographic Projection
 	- All the objects with different distance have same size ratio.
-	- Axonometric Projection
-		- Isometric Projection
-		- Dimetric Projection
-		- Trimetric Projection
+	- Includes
+	- Includes
+		- Axonometric Projection
+			- Isometric Projection
+			- Dimetric Projection
+			- Trimetric Projection
