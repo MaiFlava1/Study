@@ -9,6 +9,8 @@ Stylized shaping is the term that I tagged, because I didn't know what else to c
 	- If have animation, everything become simple, for cost
 - Pixel illustration
 - Pixel sprite
+	- Overall
+		- Normally, small size sprite
 	- Item
 		- Exaggerated
 			- Deform aggressively
