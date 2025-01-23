@@ -1,4 +1,4 @@
 # Selective outline AA
 ### What is Selective outline AA
 ---
-Selective o
+Selective outline AA is advanced pixel art technique that 
