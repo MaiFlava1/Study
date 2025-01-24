@@ -2,7 +2,7 @@
 ### Type
 ---
 - Overall
-	- If have animation, everything become simple, for cost
+	- If have animation, make everything simple, for cost
 - Pixel illustration
 - Pixel sprite
 	- Overall
