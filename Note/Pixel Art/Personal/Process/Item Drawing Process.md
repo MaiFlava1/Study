@@ -1,5 +1,5 @@
-#Item Drawing Process
-### Item Drawing Process
+# Item Drawing Process
+### Order
 ---
 1. Get Reference.
 2. Sketch with thick black pencil.
