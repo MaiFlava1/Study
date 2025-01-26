@@ -3,6 +3,8 @@
 1. Get Reference.
 2. Sketch with thick black pencil.
 3. Rate sketches silhouette can tell information enough.
-4. Set light and environment situation.
-5. Shaping, shading very roughly.
-6. Detailed.
+4. Draw outline fitable.
+5. Set light and environment situation.
+6. Shaping, shading very roughly.
+7. Detailed.
+8. Polish.
