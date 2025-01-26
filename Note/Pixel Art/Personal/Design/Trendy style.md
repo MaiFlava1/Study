@@ -13,10 +13,10 @@
 			- Perspective is aggressive
 			- Dramatic light settings
 		- Each one have own matching matcap
-		- Using Outline (Sel-out)
+		- Using Outline (Sel-out) with colorized and light affected outline.
 	- Character
 		- Flat projection
-		- Using Outline (Sel-out)
+		- Using Outline (Sel-out) with colorized and light affected outline.
 	- UI
 		- Flat projection
 		- Using Sel-out sometimes
