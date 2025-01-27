@@ -1,3 +1,3 @@
-# Attractive Item Pixel Art
+# Attractive item pixel art
 ### Type
 ---
