@@ -3,9 +3,6 @@
 ---
  Lambertian reflectance is light reflective equation in ideal situation of Diffuse reflection.
  
- [[obsidian://open?vault=Study&file=Study%2FNote%2FShading%2FDiffuse%20reflection]]
- 
- 
 ### How to calculate
 ---
 - I : Incoming light RGB
