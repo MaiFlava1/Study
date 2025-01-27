@@ -1,4 +1,3 @@
-#PixelArt
 # Selective outline (Sel-out)
 ### What is Selective outline 
 ---

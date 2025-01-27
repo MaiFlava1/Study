@@ -1,4 +1,3 @@
-#PixelArt
 # Trendy style
 ### Type
 ---

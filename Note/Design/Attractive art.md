@@ -1,4 +1,0 @@
-#PixelArt
-# Attractive art
-### Type
----
