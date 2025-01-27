@@ -1,4 +1,4 @@
-# Trendy Pixel Art Style
+# Trendy pixel art style
 ### Type
 ---
 - Overall
