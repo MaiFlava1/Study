@@ -1,7 +1,7 @@
 # Lambertian reflectance
 ### What is Lambertian Reflectance
 ---
- Lambertian reflectance is light reflective equation in ideal situation.
+ Lambertian reflectance is light reflective equation in ideal situation of Diffuse reflection.
 ### How to calculate
 ---
 - I : Incoming light RGB
