@@ -1,5 +1,5 @@
-# Item Drawing Process
-### Order
+# Pixel art item drawing process
+### Process
 ---
 1. Get Reference.
 2. Sketch with thick black pencil.
