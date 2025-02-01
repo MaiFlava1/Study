@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"51eea92a70dfe717","type":"text","text":"## Anisotropic Refleciton\n\nLike brushed metals, hair strands","x":560,"y":-192,"width":360,"height":85},
+		{"id":"977bceccb27fc43d","type":"text","text":"## Specular Reflection","x":560,"y":-80,"width":360,"height":128},
+		{"id":"fbd4ccfed12c72e8","type":"text","text":"### Perfect Mirror Reflection","x":1060,"y":-41,"width":326,"height":50},
+		{"id":"73eca1e3778729a5","type":"text","text":"### Blurred/Glossy Reflection\nmicrosurface roughness","x":1061,"y":48,"width":325,"height":88},
+		{"id":"1e3386c2ede72c95","type":"text","text":"# Metal","x":320,"y":-175,"width":140,"height":50},
+		{"id":"bde7ef81791a8f46","type":"text","text":"# Non-Metals","x":320,"y":600,"width":220,"height":60},
+		{"id":"37bfdc7208f04269","type":"text","text":"# Shading","x":-240,"y":-174,"width":184,"height":50},
+		{"id":"abe5e4dca0157ed1","type":"text","text":"# Materials","x":-20,"y":-175,"width":200,"height":51},
+		{"id":"563e090a48a149b8","type":"text","text":"## Fresnel Effect","x":560,"y":136,"width":360,"height":184}
+	],
+	"edges":[
+		{"id":"d7044c62ad648ad5","fromNode":"37bfdc7208f04269","fromSide":"right","toNode":"abe5e4dca0157ed1","toSide":"left"},
+		{"id":"79eec91806793c32","fromNode":"abe5e4dca0157ed1","fromSide":"right","toNode":"1e3386c2ede72c95","toSide":"left"},
+		{"id":"1b32d3b6bd9d70c8","fromNode":"abe5e4dca0157ed1","fromSide":"right","toNode":"bde7ef81791a8f46","toSide":"left"},
+		{"id":"7d3a6dc748e9c1aa","fromNode":"1e3386c2ede72c95","fromSide":"right","toNode":"51eea92a70dfe717","toSide":"left"},
+		{"id":"b65be28c682ef954","fromNode":"1e3386c2ede72c95","fromSide":"right","toNode":"977bceccb27fc43d","toSide":"left"},
+		{"id":"518ee0c55a192563","fromNode":"977bceccb27fc43d","fromSide":"right","toNode":"fbd4ccfed12c72e8","toSide":"left"},
+		{"id":"6c771a9b39211631","fromNode":"977bceccb27fc43d","fromSide":"right","toNode":"73eca1e3778729a5","toSide":"left"}
+	]
+}
