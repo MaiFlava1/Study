@@ -8,6 +8,7 @@
 			- Iris : 2 wpx x 2hpx
 			- Eyebrow : 5wpx
 		- Nose Highlight, Eye gap : 2wpx x 1hpx
+		- Hair : 16wpx x 16 hpx
 	- Upper : 4hpx
 		- Arm : 4wpx
 			- Palm : 2px
