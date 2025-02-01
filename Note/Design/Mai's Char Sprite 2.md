@@ -2,6 +2,7 @@
 
 ### Default Style Description
 ---
+- Smaller Mai's Char Sprite 1 Style
 - Ratio
 	- Face
 		- Eye
