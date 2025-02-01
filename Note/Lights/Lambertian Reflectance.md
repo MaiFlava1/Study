@@ -1,4 +1,4 @@
-# Lambertian reflectance
+# Lambertian Reflectance
 ### What is Lambertian Reflectance
 ---
  Lambertian reflectance is light reflective equation in ideal situation of Diffuse reflection.
@@ -8,8 +8,8 @@
 - I : Incoming light RGB
 - S : Amount of light that surface get
 - IA : Angle between surface and Incoming light
-
-$$S = rcos( 90 - IA ) = rsin( IA ) * I$$
+- SNA : Angle between surface normal and Incoming light
+$$S = rcos( SNA ) = rcos( 90 - IA ) = rsin( IA ) * I$$
 ### Pre-Calculated data
 ---
 

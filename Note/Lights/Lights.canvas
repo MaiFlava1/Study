@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"37bfdc7208f04269","type":"text","text":"# Lights","x":-124,"y":-174,"width":164,"height":54},
+		{"id":"1e3386c2ede72c95","type":"text","text":"# Metal","x":40,"y":-3,"width":160,"height":60},
+		{"id":"bde7ef81791a8f46","type":"text","text":"# Non-Metals","x":-300,"y":-3,"width":220,"height":60},
+		{"id":"51eea92a70dfe717","type":"text","text":"# Anisotropic Refleciton\nsdd","x":73,"y":200,"width":367,"height":278},
+		{"id":"563e090a48a149b8","x":480,"y":202,"width":240,"height":276,"type":"text","text":"# Fresnel Effect"}
+	],
+	"edges":[
+		{"id":"ea20ba20dbb6de5f","fromNode":"37bfdc7208f04269","fromSide":"bottom","toNode":"bde7ef81791a8f46","toSide":"top"},
+		{"id":"e921c81563c19982","fromNode":"37bfdc7208f04269","fromSide":"bottom","toNode":"1e3386c2ede72c95","toSide":"top"}
+	]
+}
