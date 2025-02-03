@@ -10,8 +10,8 @@
 			- Eyebrow : 5wpx
 		- Nose Highlight, Eye gap : 2wpx x 1hpx
 		- Hair : 16wpx x 16 hpx
-	- Upper : 4hpx
-		- Arm : 4wpx
+	- Upper : 3hpx
+		- Arm : 3wpx
 			- Palm : 2px
 	- Lower : 4hpx
 		- Leg : 3wpx x 3hpx 
