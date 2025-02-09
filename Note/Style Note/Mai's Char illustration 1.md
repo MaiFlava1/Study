@@ -2,4 +2,4 @@
 
 ### Default Style Description
 ---
-- Draw sketches with non pixel art, then resize at 256 px
+- Draw sketches with non pixel art, then resize at 256 px.
