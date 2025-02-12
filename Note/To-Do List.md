@@ -2,5 +2,7 @@
 ### List
 ---
 - [ ] Clean up study repository.
-- [ ] Draw more hand ( Definitely add Two hand collision )
+- [ ] Draw and study hand. Definitely, Add Two hand collision.
+- [ ] Draw and study cloth.
+- [ ] Draw and study bone and muscle.
 - [ ] Study color and light again.
