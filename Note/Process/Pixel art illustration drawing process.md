@@ -2,11 +2,14 @@
 ### Process
 ---
 1. Get Reference.
-2. Sketch with thick black brush in pain 
-3. Sketch with thick black pencil.
-4. Rate sketches silhouette can tell information enough.
-5. Draw outline fittable.
-6. Set light and environment situation.
-7. Shaping, shading very roughly.
-8. Detailed.
-9. Polish.
+2. Go to paint tool.
+	1. Set light and environment situation.
+	2. Rough sketch.
+	3. Shape sketch.
+	4. Color sketch.
+3. Go to Aseprite.
+	1. Sketch
+	2. Shaping, shading very roughly.
+	3. Detailed.
+	4. Polish.
+4. Closure.
