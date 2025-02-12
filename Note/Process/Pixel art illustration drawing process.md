@@ -5,8 +5,9 @@
 2. Go to paint tool.
 	1. Set light and environment situation.
 	2. Rough sketch.
-	3. Shape sketch.
-	4. Color sketch.
+	3. Check silhouette.
+	4. Shape sketch.
+	5. Color sketch.
 3. Go to Aseprite.
 	1. Sketch
 	2. Shaping, shading very roughly.
