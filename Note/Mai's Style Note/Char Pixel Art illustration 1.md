@@ -1,4 +1,4 @@
-# Mai's Char illustration 1
+# Char Pixel Artillustration 1
 
 ### Default Style Description
 ---
