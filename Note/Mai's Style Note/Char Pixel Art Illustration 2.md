@@ -3,5 +3,8 @@
 ### Default Style Description
 ---
 - Non pixel art
-	- Draw sketches wi
+	- Rough draw sketches
+	- Draw shape sketches
 	- Rough color sketches
+- Pixel art
+	- Get rough color sketches to pixel skechtes
