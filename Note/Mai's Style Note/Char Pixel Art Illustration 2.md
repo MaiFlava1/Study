@@ -7,4 +7,4 @@
 	- Draw shape sketches
 	- Rough color sketches
 - Pixel art
-	- Get rough color sketches to pixel skechtes
+	- Get rough color sketches to pixel sketches
