@@ -1,7 +1,7 @@
 # To-Do List
 ### List
 ---
-- [ ] Clean up study repository.
+- [x] Clean up study repository.
 - [ ] Draw hand. Definitely, Add Two hand collision.
 - [ ] Draw cloth.
 - [x] Draw bone.
