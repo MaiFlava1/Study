@@ -9,6 +9,7 @@
 - S : Amount of light that surface get
 - IA : Angle between surface and Incoming light
 - SNA : Angle between surface normal and Incoming light
+
 $$S = rcos( SNA ) = rcos( 90 - IA ) = rsin( IA ) * I$$
 ### Pre-Calculated data
 ---

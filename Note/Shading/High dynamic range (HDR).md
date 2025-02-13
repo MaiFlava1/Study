@@ -9,6 +9,7 @@ Increasing some range, in this case is light, specifically RGB.
 - HDR RGB range : 0 ~ 255 ~ Infinite
 - Consider as overpowered light.
 
+
 $$
 WhatWeCanSee = RGB = min(WhiteColorInRGB, hdrRGB)
 $$
