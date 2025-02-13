@@ -7,4 +7,4 @@
 - [x] Draw bone.
 - [ ] Draw muscle.
 - [ ] Study color and light again.
-- [ ] Clear sketches and pose, fix it. never redraw.
+- [x] Clear sketches and pose, fix it. never redraw.
