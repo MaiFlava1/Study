@@ -6,3 +6,4 @@
 - [ ] Draw cloth.
 - [ ] Draw bone and muscle.
 - [ ] Study color and light again.
+- [ ] Clear sketches and pose, fix it. never redraw.
