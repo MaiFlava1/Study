@@ -8,9 +8,14 @@
 	- Rough color sketches
 - Pixel art
 	- Get rough color sketches to pixel sketches
-	- Fill color with that effected by main color shadow and environmental color
-		- Color equation
-			- Outline color : Pick darkest color of neighbor diffuse pixel, then divide value with 4
-			- Ambient Oculusion color : Pick darkest color of neighbor pixel, then divide value with 2
+	- Fill color
+		- Shadowed diffuse color : recommend -10 value by diffuse color
+			- Considering that eye adjust exposure.
+			- Effected by diffuse color and environmental color.
+		- Outline color : Pick darkest color of neighbor pixel, then divide value with 4
+		- Ambient Oculusion color : Pick darkest color of neighbor pixel, then divide value with 2
 	- Stack light with layers
 	- Give post effects
+		- Soft Light : Screen, Overlay, Soft Light
+		- Strong Light: Glow Dodge, Linear Dodge, Hard Light
+		- Diffuse Reflection : Color Dodge, Screen, Overlay
