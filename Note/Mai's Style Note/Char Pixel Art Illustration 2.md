@@ -15,7 +15,5 @@
 		- Outline color : Pick darkest color of neighbor pixel, then divide value with 4
 		- Ambient Oculusion color : Pick darkest color of neighbor pixel, then divide value with 2
 	- Stack light with layers
+		- Use Overlay blend mode for dark outline color doesn't affected by 
 	- Give post effects
-		- Soft Light : Screen, Overlay, Soft Light
-		- Strong Light: Glow Dodge, Linear Dodge, Hard Light
-		- Diffuse Reflection : Color Dodge, Screen, Overlay
