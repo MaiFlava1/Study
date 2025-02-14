@@ -14,4 +14,3 @@
 \frac{2 \times A \times B}{255}, & A < 128 \\
 255 - \frac{2 \times (255 - A) \times (255 - B)}{255}, & A \geq 128
 \end{cases}$$
-- C
