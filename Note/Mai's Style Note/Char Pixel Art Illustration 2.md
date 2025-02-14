@@ -7,8 +7,9 @@
 	- Draw shape sketches
 	- Rough color sketches
 - Pixel art
+	- Set canvas size that people consider as pixel art.
 	- Get rough color sketches to pixel sketches
-	- Shade : 
+	- Shade
 		- Shadowed diffuse color : recommend -10 value by diffuse color
 			- Considering that eye adjust exposure. (Adaptive Exposure in HDR)
 			- Effected by diffuse color and environmental color.
