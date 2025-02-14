@@ -8,3 +8,4 @@
 - [ ] Draw muscle.
 - [ ] Study color and light again.
 - [x] Clear sketches and pose, fix it. never redraw.
+- [ ] Be water
