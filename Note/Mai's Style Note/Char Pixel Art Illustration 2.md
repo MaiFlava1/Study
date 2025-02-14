@@ -1,6 +1,6 @@
 # Char Pixel Art Illustration 2
 
-### Default Style Description
+### Processing
 ---
 - Non pixel art
 	- Rough draw sketches
