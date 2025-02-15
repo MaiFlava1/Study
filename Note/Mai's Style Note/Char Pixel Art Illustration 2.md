@@ -16,6 +16,7 @@
 		- Outline color : Pick darkest color of neighbor pixel, then divide value with 4
 			- Draw outline when enough far from back.
 		- Ambient Oculusion color : Pick darkest color of neighbor pixel, then divide value with 2
+			- Make deeper and longer to shape correctly.
 	- Stack light with layers
 		- Use Overlay blend mode for dark outline color doesn't affected by bright light colors
 	- Give post effects
