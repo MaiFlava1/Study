@@ -13,7 +13,9 @@
 		- Shadowed diffuse color : recommend -10 to -40 value by diffuse color
 			- Considering that eye adjust exposure. (Adaptive Exposure in HDR)
 			- Effected by diffuse color and environmental color.
-			- Color curve feature make this easy.
+			- Multiply to manage exposure.
+			- Subtract to make shadow.
+			- Color curve feature for detail.
 		- Outline color : Pick darkest color of neighbor pixel, then divide value with 4
 			- Draw outline when enough far from back.
 		- Ambient Oculusion color : Pick darkest color of neighbor pixel, then divide value with 2
