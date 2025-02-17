@@ -17,18 +17,19 @@
 		{"id":"4d1a0b0ed1389f2e","type":"text","text":"Youtube","x":642,"y":-214,"width":140,"height":50},
 		{"id":"fca209b94c8bd937","x":436,"y":60,"width":250,"height":60,"type":"text","text":"Clarity"},
 		{"id":"f4f55254c566e968","type":"text","text":"Visual Readability","x":713,"y":60,"width":250,"height":60},
-		{"id":"dd7b010f231c97ac","x":239,"y":-85,"width":250,"height":60,"type":"text","text":"Customized design"},
 		{"id":"1b95bf7aeb808a53","x":587,"y":200,"width":250,"height":60,"type":"text","text":"Concept"},
 		{"id":"f24193951fbae93a","x":489,"y":-400,"width":197,"height":50,"type":"text","text":"Target Clients"},
-		{"id":"0f257c8189048796","x":20,"y":-85,"width":179,"height":60,"type":"text","text":"Target Clients"},
 		{"id":"16335b505556eb37","type":"text","text":"# Character Creation","x":878,"y":-425,"width":198,"height":100,"color":"1"},
 		{"id":"cb67fb796be18156","x":432,"y":-885,"width":188,"height":57,"type":"text","text":"Optimization"},
 		{"id":"eeb646e1301079dd","type":"text","text":"Optimization","x":342,"y":200,"width":188,"height":57},
-		{"id":"be3070fcd54b655f","x":110,"y":-530,"width":142,"height":50,"type":"text","text":"Weight"},
 		{"id":"dcf8db25f124ccb6","type":"text","text":"Color\n","x":1012,"y":60,"width":111,"height":50},
 		{"id":"9ddcb48d22f37d64","type":"text","text":"Persona","x":1172,"y":60,"width":131,"height":50},
 		{"id":"8349364480b18c8c","type":"text","text":"Story","x":1323,"y":60,"width":108,"height":50},
-		{"id":"8d95c0673b61861f","type":"text","text":"Shape","x":1431,"y":175,"width":126,"height":50}
+		{"id":"8d95c0673b61861f","type":"text","text":"Shape","x":1431,"y":175,"width":126,"height":50},
+		{"id":"be3070fcd54b655f","x":168,"y":-530,"width":142,"height":50,"type":"text","text":"Weight"},
+		{"id":"0f257c8189048796","x":79,"y":-85,"width":179,"height":60,"type":"text","text":"Target Clients"},
+		{"id":"dd7b010f231c97ac","x":298,"y":-85,"width":250,"height":60,"type":"text","text":"Customized design"},
+		{"id":"e4271cc439d040bd","type":"text","text":"Customized design","x":370,"y":-806,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"a90eb9872934cff4","fromNode":"9ddcb48d22f37d64","fromSide":"right","toNode":"8349364480b18c8c","toSide":"left","toEnd":"none"},
@@ -68,6 +69,8 @@
 		{"id":"bb8947f938504c52","fromNode":"42a108560aa97967","fromSide":"bottom","toNode":"dcf8db25f124ccb6","toSide":"top"},
 		{"id":"a423a16f81d009b4","fromNode":"42a108560aa97967","fromSide":"bottom","toNode":"8d95c0673b61861f","toSide":"top"},
 		{"id":"733bb175b59a076c","fromNode":"9ddcb48d22f37d64","fromSide":"bottom","toNode":"8d95c0673b61861f","toSide":"left","toEnd":"none"},
-		{"id":"06e49e3701dfd814","fromNode":"8349364480b18c8c","fromSide":"bottom","toNode":"8d95c0673b61861f","toSide":"left","toEnd":"none"}
+		{"id":"06e49e3701dfd814","fromNode":"8349364480b18c8c","fromSide":"bottom","toNode":"8d95c0673b61861f","toSide":"left","toEnd":"none"},
+		{"id":"54b2c8efb59ed868","fromNode":"85ff82565581114c","fromSide":"left","toNode":"e4271cc439d040bd","toSide":"right"},
+		{"id":"54b9330334b5977a","fromNode":"44d087093f2a5071","fromSide":"left","toNode":"e4271cc439d040bd","toSide":"right"}
 	]
 }
