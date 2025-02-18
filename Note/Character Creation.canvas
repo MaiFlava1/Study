@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4f18af46e460a365","x":197,"y":-1120,"width":1428,"height":700,"type":"group","label":"Mai Flava"},
-		{"id":"b8aa17e7da61a2bf","x":-200,"y":-140,"width":1084,"height":640,"type":"group","label":"Youtube"},
+		{"id":"b8aa17e7da61a2bf","x":-200,"y":-140,"width":1084,"height":620,"type":"group","label":"Youtube"},
 		{"id":"864e9e78b44990eb","x":1040,"y":-100,"width":585,"height":205,"type":"group","label":"X ( Twitter )"},
 		{"id":"dcf8db25f124ccb6","type":"text","text":"Color\n","x":1060,"y":-80,"width":111,"height":50},
 		{"id":"9ddcb48d22f37d64","type":"text","text":"Persona","x":1220,"y":-80,"width":131,"height":50},
