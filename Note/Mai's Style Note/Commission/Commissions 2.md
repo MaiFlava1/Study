@@ -1,11 +1,12 @@
-# Commissions 1
+# Commissions 2
 
 ### Default Style Description
 ---
 - Draw sketches with non pixel art, then resize
-- Head, neck only 96px
-- Canvas at 128px
-- Color picking
+- Canvas height at 192px
+- Character 160px
+- Head 48px
+- Layer Blend Mode
 - Tone managing
 - Hard black outline
 - Hard internal dark
