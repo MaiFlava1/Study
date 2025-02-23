@@ -1,3 +1,0 @@
-# Planning Artwork Requirements
-### y
----
